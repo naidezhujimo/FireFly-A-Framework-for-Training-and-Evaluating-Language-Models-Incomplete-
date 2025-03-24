@@ -1,5 +1,3 @@
-以下是为您的FireFly项目编写的README.md模板，您可以根据实际项目内容进行调整：
-
 ```markdown
 # FireFly 🔥
 
